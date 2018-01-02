@@ -1,0 +1,557 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		901D67561FFB838900ED926A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 901D67551FFB838900ED926A /* AppDelegate.m */; };
+		901D67591FFB838900ED926A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 901D67581FFB838900ED926A /* ViewController.m */; };
+		901D675C1FFB838900ED926A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 901D675A1FFB838900ED926A /* Main.storyboard */; };
+		901D675E1FFB838900ED926A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 901D675D1FFB838900ED926A /* Assets.xcassets */; };
+		901D67611FFB838900ED926A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 901D675F1FFB838900ED926A /* LaunchScreen.storyboard */; };
+		901D67641FFB838900ED926A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 901D67631FFB838900ED926A /* main.m */; };
+		901D676E1FFB838900ED926A /* BrainPowerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 901D676D1FFB838900ED926A /* BrainPowerTests.m */; };
+		901D67791FFB838900ED926A /* BrainPowerUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 901D67781FFB838900ED926A /* BrainPowerUITests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		901D676A1FFB838900ED926A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 901D67491FFB838900ED926A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 901D67501FFB838900ED926A;
+			remoteInfo = BrainPower;
+		};
+		901D67751FFB838900ED926A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 901D67491FFB838900ED926A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 901D67501FFB838900ED926A;
+			remoteInfo = BrainPower;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		901D67511FFB838900ED926A /* BrainPower.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BrainPower.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		901D67541FFB838900ED926A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		901D67551FFB838900ED926A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		901D67571FFB838900ED926A /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		901D67581FFB838900ED926A /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		901D675B1FFB838900ED926A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		901D675D1FFB838900ED926A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		901D67601FFB838900ED926A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		901D67621FFB838900ED926A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		901D67631FFB838900ED926A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		901D67691FFB838900ED926A /* BrainPowerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BrainPowerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		901D676D1FFB838900ED926A /* BrainPowerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BrainPowerTests.m; sourceTree = "<group>"; };
+		901D676F1FFB838900ED926A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		901D67741FFB838900ED926A /* BrainPowerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BrainPowerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		901D67781FFB838900ED926A /* BrainPowerUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BrainPowerUITests.m; sourceTree = "<group>"; };
+		901D677A1FFB838900ED926A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		901D674E1FFB838900ED926A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		901D67661FFB838900ED926A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		901D67711FFB838900ED926A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		901D67481FFB838900ED926A = {
+			isa = PBXGroup;
+			children = (
+				901D67531FFB838900ED926A /* BrainPower */,
+				901D676C1FFB838900ED926A /* BrainPowerTests */,
+				901D67771FFB838900ED926A /* BrainPowerUITests */,
+				901D67521FFB838900ED926A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		901D67521FFB838900ED926A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				901D67511FFB838900ED926A /* BrainPower.app */,
+				901D67691FFB838900ED926A /* BrainPowerTests.xctest */,
+				901D67741FFB838900ED926A /* BrainPowerUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		901D67531FFB838900ED926A /* BrainPower */ = {
+			isa = PBXGroup;
+			children = (
+				901D67541FFB838900ED926A /* AppDelegate.h */,
+				901D67551FFB838900ED926A /* AppDelegate.m */,
+				901D67571FFB838900ED926A /* ViewController.h */,
+				901D67581FFB838900ED926A /* ViewController.m */,
+				901D675A1FFB838900ED926A /* Main.storyboard */,
+				901D675D1FFB838900ED926A /* Assets.xcassets */,
+				901D675F1FFB838900ED926A /* LaunchScreen.storyboard */,
+				901D67621FFB838900ED926A /* Info.plist */,
+				901D67631FFB838900ED926A /* main.m */,
+			);
+			path = BrainPower;
+			sourceTree = "<group>";
+		};
+		901D676C1FFB838900ED926A /* BrainPowerTests */ = {
+			isa = PBXGroup;
+			children = (
+				901D676D1FFB838900ED926A /* BrainPowerTests.m */,
+				901D676F1FFB838900ED926A /* Info.plist */,
+			);
+			path = BrainPowerTests;
+			sourceTree = "<group>";
+		};
+		901D67771FFB838900ED926A /* BrainPowerUITests */ = {
+			isa = PBXGroup;
+			children = (
+				901D67781FFB838900ED926A /* BrainPowerUITests.m */,
+				901D677A1FFB838900ED926A /* Info.plist */,
+			);
+			path = BrainPowerUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		901D67501FFB838900ED926A /* BrainPower */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 901D677D1FFB838900ED926A /* Build configuration list for PBXNativeTarget "BrainPower" */;
+			buildPhases = (
+				901D674D1FFB838900ED926A /* Sources */,
+				901D674E1FFB838900ED926A /* Frameworks */,
+				901D674F1FFB838900ED926A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BrainPower;
+			productName = BrainPower;
+			productReference = 901D67511FFB838900ED926A /* BrainPower.app */;
+			productType = "com.apple.product-type.application";
+		};
+		901D67681FFB838900ED926A /* BrainPowerTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 901D67801FFB838900ED926A /* Build configuration list for PBXNativeTarget "BrainPowerTests" */;
+			buildPhases = (
+				901D67651FFB838900ED926A /* Sources */,
+				901D67661FFB838900ED926A /* Frameworks */,
+				901D67671FFB838900ED926A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				901D676B1FFB838900ED926A /* PBXTargetDependency */,
+			);
+			name = BrainPowerTests;
+			productName = BrainPowerTests;
+			productReference = 901D67691FFB838900ED926A /* BrainPowerTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		901D67731FFB838900ED926A /* BrainPowerUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 901D67831FFB838900ED926A /* Build configuration list for PBXNativeTarget "BrainPowerUITests" */;
+			buildPhases = (
+				901D67701FFB838900ED926A /* Sources */,
+				901D67711FFB838900ED926A /* Frameworks */,
+				901D67721FFB838900ED926A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				901D67761FFB838900ED926A /* PBXTargetDependency */,
+			);
+			name = BrainPowerUITests;
+			productName = BrainPowerUITests;
+			productReference = 901D67741FFB838900ED926A /* BrainPowerUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		901D67491FFB838900ED926A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0900;
+				ORGANIZATIONNAME = nestcode;
+				TargetAttributes = {
+					901D67501FFB838900ED926A = {
+						CreatedOnToolsVersion = 9.0;
+						ProvisioningStyle = Automatic;
+					};
+					901D67681FFB838900ED926A = {
+						CreatedOnToolsVersion = 9.0;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 901D67501FFB838900ED926A;
+					};
+					901D67731FFB838900ED926A = {
+						CreatedOnToolsVersion = 9.0;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 901D67501FFB838900ED926A;
+					};
+				};
+			};
+			buildConfigurationList = 901D674C1FFB838900ED926A /* Build configuration list for PBXProject "BrainPower" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 901D67481FFB838900ED926A;
+			productRefGroup = 901D67521FFB838900ED926A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				901D67501FFB838900ED926A /* BrainPower */,
+				901D67681FFB838900ED926A /* BrainPowerTests */,
+				901D67731FFB838900ED926A /* BrainPowerUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		901D674F1FFB838900ED926A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				901D67611FFB838900ED926A /* LaunchScreen.storyboard in Resources */,
+				901D675E1FFB838900ED926A /* Assets.xcassets in Resources */,
+				901D675C1FFB838900ED926A /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		901D67671FFB838900ED926A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		901D67721FFB838900ED926A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		901D674D1FFB838900ED926A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				901D67591FFB838900ED926A /* ViewController.m in Sources */,
+				901D67641FFB838900ED926A /* main.m in Sources */,
+				901D67561FFB838900ED926A /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		901D67651FFB838900ED926A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				901D676E1FFB838900ED926A /* BrainPowerTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		901D67701FFB838900ED926A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				901D67791FFB838900ED926A /* BrainPowerUITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		901D676B1FFB838900ED926A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 901D67501FFB838900ED926A /* BrainPower */;
+			targetProxy = 901D676A1FFB838900ED926A /* PBXContainerItemProxy */;
+		};
+		901D67761FFB838900ED926A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 901D67501FFB838900ED926A /* BrainPower */;
+			targetProxy = 901D67751FFB838900ED926A /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		901D675A1FFB838900ED926A /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				901D675B1FFB838900ED926A /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		901D675F1FFB838900ED926A /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				901D67601FFB838900ED926A /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		901D677B1FFB838900ED926A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		901D677C1FFB838900ED926A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		901D677E1FFB838900ED926A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27CNNAHK2T;
+				INFOPLIST_FILE = BrainPower/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.BrainPower;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		901D677F1FFB838900ED926A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27CNNAHK2T;
+				INFOPLIST_FILE = BrainPower/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.BrainPower;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		901D67811FFB838900ED926A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27CNNAHK2T;
+				INFOPLIST_FILE = BrainPowerTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.BrainPowerTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BrainPower.app/BrainPower";
+			};
+			name = Debug;
+		};
+		901D67821FFB838900ED926A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27CNNAHK2T;
+				INFOPLIST_FILE = BrainPowerTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.BrainPowerTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BrainPower.app/BrainPower";
+			};
+			name = Release;
+		};
+		901D67841FFB838900ED926A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27CNNAHK2T;
+				INFOPLIST_FILE = BrainPowerUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.BrainPowerUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = BrainPower;
+			};
+			name = Debug;
+		};
+		901D67851FFB838900ED926A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27CNNAHK2T;
+				INFOPLIST_FILE = BrainPowerUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.app.BrainPowerUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = BrainPower;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		901D674C1FFB838900ED926A /* Build configuration list for PBXProject "BrainPower" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				901D677B1FFB838900ED926A /* Debug */,
+				901D677C1FFB838900ED926A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		901D677D1FFB838900ED926A /* Build configuration list for PBXNativeTarget "BrainPower" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				901D677E1FFB838900ED926A /* Debug */,
+				901D677F1FFB838900ED926A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		901D67801FFB838900ED926A /* Build configuration list for PBXNativeTarget "BrainPowerTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				901D67811FFB838900ED926A /* Debug */,
+				901D67821FFB838900ED926A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		901D67831FFB838900ED926A /* Build configuration list for PBXNativeTarget "BrainPowerUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				901D67841FFB838900ED926A /* Debug */,
+				901D67851FFB838900ED926A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 901D67491FFB838900ED926A /* Project object */;
+}
