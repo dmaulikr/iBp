@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13196" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment version="1808" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13173"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="XWPhotoEditorViewController">
+            <connections>
+                <outlet property="cancelButton" destination="mOB-6t-kFV" id="wJ6-Fl-T9C"/>
+                <outlet property="cropWindow" destination="x3l-0H-F6m" id="wSH-r1-CnC"/>
+                <outlet property="indicator" destination="Ob4-Xv-xSx" id="o3S-P0-qye"/>
+                <outlet property="selectButton" destination="s06-M2-ZAr" id="F7Z-7B-TqZ"/>
+                <outlet property="view" destination="1" id="3"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="1">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="x3l-0H-F6m" customClass="XWCropWindow">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="436"/>
+                    <subviews>
+                        <activityIndicatorView hidden="YES" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" hidesWhenStopped="YES" style="whiteLarge" translatesAutoresizingMaskIntoConstraints="NO" id="Ob4-Xv-xSx">
+                            <rect key="frame" x="142" y="199" width="37" height="37"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <color key="color" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        </activityIndicatorView>
+                    </subviews>
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                </view>
+                <toolbar opaque="NO" clearsContextBeforeDrawing="NO" alpha="0.69999999999999996" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="POB-kG-4Eu">
+                    <rect key="frame" x="0.0" y="436" width="320" height="44"/>
+                    <color key="backgroundColor" cocoaTouchSystemColor="darkTextColor"/>
+                    <items>
+                        <barButtonItem title="Cancel" id="mOB-6t-kFV">
+                            <connections>
+                                <action selector="cancelAction:" destination="-1" id="YHW-9X-g0g"/>
+                            </connections>
+                        </barButtonItem>
+                        <barButtonItem style="plain" systemItem="flexibleSpace" id="x7F-Bi-zkR"/>
+                        <barButtonItem title="Select" id="s06-M2-ZAr">
+                            <connections>
+                                <action selector="doneAction:" destination="-1" id="MBL-jh-lcu"/>
+                            </connections>
+                        </barButtonItem>
+                    </items>
+                </toolbar>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="POB-kG-4Eu" firstAttribute="top" secondItem="x3l-0H-F6m" secondAttribute="bottom" id="Npi-7Q-xYb"/>
+                <constraint firstItem="x3l-0H-F6m" firstAttribute="leading" secondItem="1" secondAttribute="leading" id="Vxr-uv-RtM"/>
+                <constraint firstAttribute="trailing" secondItem="x3l-0H-F6m" secondAttribute="trailing" id="ZgL-Zb-3Pk"/>
+                <constraint firstItem="POB-kG-4Eu" firstAttribute="leading" secondItem="1" secondAttribute="leading" id="neW-zt-Z8z"/>
+                <constraint firstAttribute="trailing" secondItem="POB-kG-4Eu" secondAttribute="trailing" id="oGB-fX-mFB"/>
+                <constraint firstAttribute="bottom" secondItem="POB-kG-4Eu" secondAttribute="bottom" id="ve6-Cj-Svs"/>
+                <constraint firstItem="x3l-0H-F6m" firstAttribute="top" secondItem="1" secondAttribute="top" id="zvY-Bg-chz"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+        </view>
+    </objects>
+</document>

@@ -1,0 +1,137 @@
+/* 
+  Localizable.strings
+  BrainPower
+
+  Created by nestcode on 2/20/18.
+  Copyright © 2018 nestcode. All rights reserved.
+*/
+
+"\nThis iBrainPowers App consist of Brain Waves and Neuro Exercises and its scientifically proved that both above mentioned has no side effect on Brain or any part of the body.\n\niBrainPowers App is STRICTLY not be used in any medical conditions such as Epilepsy or is taking any medication for a serious medical condition.\n\nI understand that there are no medical effect of the iBrainPowers App workshop and I will not hold iBrainPowers Director, Franchise, Employee, Associates, Brand Ambassador etc. responsible for any such condition.\n\nMy child is not suffering from epilepsy or and is not mentally or physical challenged.\n\nIf you buy Level 1, Module 1 -5 and have opened Module 1 No refund will be initiated.\n\nIf your buy all modules and have used module 1–5 then Amount paid – 1500 + will be refunded, Service Tax will not be refundable.\n\nIf you have not used any modules we will refund your amount less service tax." = "\nThis iBrainPowers App consist of Brain Waves and Neuro Exercises and its scientifically proved that both above mentioned has no side effect on Brain or any part of the body.\n\niBrainPowers App is STRICTLY not be used in any medical conditions such as Epilepsy or is taking any medication for a serious medical condition.\n\nI understand that there are no medical effect of the iBrainPowers App workshop and I will not hold iBrainPowers Director, Franchise, Employee, Associates, Brand Ambassador etc. responsible for any such condition.\n\nMy child is not suffering from epilepsy or and is not mentally or physical challenged.\n\nIf you buy Level 1, Module 1 -5 and have opened Module 1 No refund will be initiated.\n\nIf your buy all modules and have used module 1–5 then Amount paid – 1500 + will be refunded, Service Tax will not be refundable.\n\nIf you have not used any modules we will refund your amount less service tax.";
+
+"Terms & Conditions" = "Terms & Conditions";
+
+"Privacy Policy" = "Privacy Policy";
+
+"Enter New Password" = "Enter New Password";
+
+"Enter Confirm Password" = "Enter Confirm Password";
+
+"Set New Password" = "Set New Password";
+
+"Please Enter New Password" = "Please Enter New Password";
+
+"Please Enter Confirm Password" = "Please Enter Confirm Password";
+
+"Confirm Password not Matched!!" = "Confirm Password not Matched!!";
+
+"Something went wrong!!, Please try again" = "Something went wrong!!, Please try again";
+
+"Device is not connected to Internet!! Please connect to the Internet and try again!!" = "Device is not connected to Internet!! Please connect to the Internet and try again!!";
+
+"Your Phone battery is below 15%, Please put phone into charging." = "Your Phone battery is below 15%, Please put phone into charging.";
+
+"BUY NOW" = "BUY NOW";
+
+"COMPLETE PURCHASE" = "COMPLETE PURCHASE";
+
+"ACTIVE" = "ACTIVE";
+
+"COMPLETED" = "COMPLETED";
+
+"LOCKED" = "LOCKED";
+
+"FREE" = "FREE";
+
+"OPEN" = "OPEN";
+
+"ALREADY PURCHASED" = "ALREADY PURCHASED";
+
+"This Level is Locked" = "This Level is Locked";
+
+"You have aleady completed this Level" = "You have aleady completed this Level";
+
+"Please Fill All Details to Continue" = "Please Fill All Details to Continue";
+
+"Please Enter Parent's Name" = "Please Enter Parent's Name";
+
+"Please Enter Child's Name" = "Please Enter Child's Name";
+
+"Please Enter Email" = "Please Enter Email";
+
+"Please Enter Date of Birth of Child" = "Please Enter Date of Birth of Child";
+
+"Please Enter City" = "Please Enter City";
+
+"Promocode Must be 9 Digits!!!" = "Promocode Must be 9 Digits!!!";
+
+"Password Can't be less then 8 Digits!!!" = "Password Can't be less then 8 Digits!!!";
+
+"Password and Confirm Password not matched!!!" = "Password and Confirm Password not matched!!!";
+
+"You must agree on Terms and Conditions to continue!!" = "You must agree on Terms and Conditions to continue!!";
+
+"You can complete 2 modules in 24 hours and you already have completed 2 modules in 24hrs. Please Visit after 24hrs" = "You can complete 2 modules in 24 hours and you already have completed 2 modules in 24hrs. Please Visit after 24hrs";
+
+"Please enable phone to Airplane Mode." = "Please enable phone to Airplane Mode.";
+
+"Please plugin HEADPHONE and Keep Volume Maximum." = "Please plugin HEADPHONE and Keep Volume Maximum.";
+
+"Please do not press back button, home button or unplug headphone." = "Please do not press back button, home button or unplug headphone.";
+
+"Please Fill All Details to Continue" = "Please Fill All Details to Continue";
+
+"Please Enter Old Password" = "Please Enter Old Password";
+
+"Please Enter New Password" = "Please Enter New Password";
+
+"Please Enter Confirm Password" = "Please Enter Confirm Password";
+
+"Confirm Password should be equal to New Password" = "Confirm Password should be equal to New Password";
+
+"Enter Details to Continue" = "Enter Details to Continue";
+
+"Please Enter Name" = "Please Enter Name";
+
+"Please Enter Email" = "Please Enter Email";
+
+"Please Enter Message" = "Please Enter Message";
+
+"1. We thank you for choosing iBrainPowers App Level 1 & 2.\n2. To be eligible for refund\n\t2.1. Even if module  1 & 2 are completed you can opt for 100%% refund.\n\t2.2. If you completed between module 3 - 5 you can opt for 50% refund.\n\t2.3. If you complete module 6 then no refund initiated.\n3. No refund after 15 days of purchase.\n4. For any refund please contact support@ibrainpowers.com with your registered mobile number in subject line for speedy initiation." = "1. We thank you for choosing iBrainPowers App Level 1 & 2.\n2. To be eligible for refund\n\t2.1. Even if module  1 & 2 are completed you can opt for 100% refund.\n\t2.2. If you completed between module 3 - 5 you can opt for 50%% refund.\n\t2.3. If you complete module 6 then no refund initiated.\n3. No refund after 15 days of purchase.\n4. For any refund please contact support@ibrainpowers.com with your registered mobile number in subject line for speedy initiation.";
+
+"Please connect HeadPhones to continue!!" = "Please connect HeadPhones to continue!!";
+
+"Message" = "Message";
+
+"Alert!!" = "Alert!!";
+
+"Are you sure you want to logout?" = "Are you sure you want to logout?";
+
+"Attention!!" = "Attention!!";
+
+"YES" = "YES";
+
+"NO" = "NO";
+
+"You will be Redirect to our website for payment" = "You will be Redirect to our website for payment";
+
+"You save" = "You save";
+
+"Already Purchased!" = "Already Purchased!";
+
+"Please Select Package to Continue Purchase!" = "Please Select Package to Continue Purchase!";
+
+"You Have Purchased All Packages!" = "You Have Purchased All Packages!";
+
+"Description" = "Description";
+
+"Please Fill All Details!!" = "Please Fill All Details!!";
+
+"Please Select Category First!!" = "Please Select Category First!!";
+
+"Please Write Title First!!" = "Please Write Title First!!";
+
+"Please Write Description First!!" = "Please Write Description First!!";
+
+"Please Enter Mesage!!" = "Please Enter Mesage!!";
+
+"Enter Message" = "Enter Message";

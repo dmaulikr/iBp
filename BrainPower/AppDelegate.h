@@ -7,8 +7,14 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "Constants.h"
+#import "Global.h"
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
+@import Firebase;
+@import FirebaseInstanceID;
+@import FirebaseMessaging;
+
+@interface AppDelegate : UIResponder <UIApplicationDelegate,FIRMessagingDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
 

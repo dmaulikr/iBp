@@ -7,7 +7,25 @@
 		<key>BrainPower.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>6</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>901D67501FFB838900ED926A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>901D67681FFB838900ED926A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>901D67731FFB838900ED926A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

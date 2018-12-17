@@ -1,0 +1,717 @@
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "070-vO-Jv0"; */
+"070-vO-Jv0.placeholder" = "Confirmer le mot de passe";
+
+/* Class = "UILabel"; text = "Verification"; ObjectID = "0AJ-KE-Xlz"; */
+"0AJ-KE-Xlz.text" = "Vérification";
+
+/* Class = "UILabel"; text = "Combo Discount"; ObjectID = "0Pe-z6-oTY"; */
+"0Pe-z6-oTY.text" = "Réduction combinée";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "10L-ew-BKr"; */
+"10L-ew-BKr.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "FAQs"; ObjectID = "15l-4Y-cpg"; */
+"15l-4Y-cpg.title" = "FAQs";
+
+/* Class = "UILabel"; text = "This iBrainPowers App consist of Brain Waves and Neuro Exercises and its scientifically proved that both above mentioned has no side effect on Brain or any part of the body."; ObjectID = "1KO-Lq-7bf"; */
+"1KO-Lq-7bf.text" = "Cette application iBrainPowers se compose d'ondes cérébrales et d'exercices de neuro. Ses preuves scientifiques ont prouvé que les deux cas mentionnés ci-dessus n'ont aucun effet secondaire sur le cerveau ou une partie du corps.";
+
+/* Class = "UIButton"; normalTitle = "Edit Profile"; ObjectID = "1LJ-3Q-DuI"; */
+"1LJ-3Q-DuI.normalTitle" = "Modifier le profil";
+
+/* Class = "UILabel"; text = "CGST "; ObjectID = "1ZV-5A-IeN"; */
+"1ZV-5A-IeN.text" = "CGST ";
+
+/* Class = "UILabel"; text = "74514"; ObjectID = "1aS-fw-Sof"; */
+"1aS-fw-Sof.text" = "74514";
+
+/* Class = "UILabel"; text = "Account holder name"; ObjectID = "1uA-rg-AeS"; */
+"1uA-rg-AeS.text" = "Nom du titulaire du compte";
+
+/* Class = "UITextField"; text = "Select Category"; ObjectID = "2KO-13-vpy"; */
+"2KO-13-vpy.text" = "Sélectionner une catégorie";
+
+/* Class = "UILabel"; text = "I am agree with all Terms & Conditions."; ObjectID = "2PY-cI-73T"; */
+"2PY-cI-73T.text" = "Je suis d'accord avec tous les termes et conditions.";
+
+/* Class = "UILabel"; text = "Our Goals:"; ObjectID = "36q-ik-26h"; */
+"36q-ik-26h.text" = "Nos objectifs:";
+
+/* Class = "UILabel"; text = "Payment Through"; ObjectID = "3p4-BP-iGf"; */
+"3p4-BP-iGf.text" = "Grâceàde paiement";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "3sM-34-1ye"; */
+"3sM-34-1ye.text" = "À propos de nous";
+
+/* Class = "UILabel"; text = "iBrainPowers"; ObjectID = "44D-sV-npY"; */
+"44D-sV-npY.text" = "iBrainPowers";
+
+/* Class = "UILabel"; text = "iBrain"; ObjectID = "49r-6i-va8"; */
+"49r-6i-va8.text" = "iBrain";
+
+/* Class = "UILabel"; text = "Brain Music LLP"; ObjectID = "4VZ-HZ-ITr"; */
+"4VZ-HZ-ITr.text" = "Brain Music LLP";
+
+/* Class = "UILabel"; text = "Address :"; ObjectID = "4r2-q7-N9m"; */
+"4r2-q7-N9m.text" = "Adresse :";
+
+/* Class = "UILabel"; text = "Combo Discount"; ObjectID = "5EW-s8-nJd"; */
+"5EW-s8-nJd.text" = "Réduction combinée";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5Es-Pv-nLm"; */
+"5Es-Pv-nLm.text" = "Label";
+
+/* Class = "UILabel"; text = "Created On:"; ObjectID = "5GA-p4-mZT"; */
+"5GA-p4-mZT.text" = "Créé le:";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "5Py-kJ-Stb"; */
+"5Py-kJ-Stb.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "iBrainPowers App is STRICTLY not be used in any medical conditions such as Epilepsy or is taking any medication for a serious medical condition."; ObjectID = "5WF-s2-kSK"; */
+"5WF-s2-kSK.text" = "iBrainPowers App est STRICTEMENT ne pas être utilisé dans des conditions médicales telles que l'épilepsie ou prend des médicaments pour une maladie grave.";
+
+/* Class = "UILabel"; text = "I am agree with all Terms & Conditions."; ObjectID = "5ak-dP-ljW"; */
+"5ak-dP-ljW.text" = "Je suis d'accord avec tous les termes et conditions";
+
+/* Class = "UILabel"; text = "W50009"; ObjectID = "5yU-dG-3xz"; */
+"5yU-dG-3xz.text" = "W50009";
+
+/* Class = "UILabel"; text = "Please Connect to the Internet to Continue"; ObjectID = "6HY-zA-k1p"; */
+"6HY-zA-k1p.text" = "Veuillez vous connecter à Internet pour continuer";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6SV-tO-AsT"; */
+"6SV-tO-AsT.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Transaction ID"; ObjectID = "6hw-YF-ZTF"; */
+"6hw-YF-ZTF.text" = "Identifiant de transaction";
+
+/* Class = "UILabel"; text = "Powers"; ObjectID = "72E-vN-qPq"; */
+"72E-vN-qPq.text" = "Powers";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "7Fs-My-JI2"; */
+"7Fs-My-JI2.text" = "--";
+
+/* Class = "UILabel"; text = "Promo Code"; ObjectID = "7Qn-WW-1Nf"; */
+"7Qn-WW-1Nf.text" = "Code Promo";
+
+/* Class = "UILabel"; text = "As promotional activity we have unlocked all modules."; ObjectID = "7Wq-yP-07J"; */
+"7Wq-yP-07J.text" = "En tant qu'activité promotionnelle, nous avons déverrouillé tous les modules.";
+
+/* Class = "UITextField"; placeholder = "Child's Name"; ObjectID = "7Zr-ga-G8I"; */
+"7Zr-ga-G8I.placeholder" = "Nom de l'enfant";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "7ce-9N-RTR"; */
+"7ce-9N-RTR.placeholder" = "Ville";
+
+/* Class = "UILabel"; text = "Birthdate"; ObjectID = "7vT-pk-G8a"; */
+"7vT-pk-G8a.text" = "Date de naissance";
+
+/* Class = "UILabel"; text = "Applications"; ObjectID = "87z-LY-Ena"; */
+"87z-LY-Ena.text" = "Applications";
+
+/* Class = "UILabel"; text = "Refund Policy"; ObjectID = "8Oo-ga-763"; */
+"8Oo-ga-763.text" = "Politique de remboursement";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "8d6-Tn-MlA"; */
+"8d6-Tn-MlA.placeholder" = "Mot de passe";
+
+/* Class = "UILabel"; text = "8"; ObjectID = "9aW-Je-2jg"; */
+"9aW-Je-2jg.text" = "8";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AWV-k4-tKP"; */
+"AWV-k4-tKP.text" = "Label";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "Ai1-G4-1r3"; */
+"Ai1-G4-1r3.text" = "Total";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "B05-wJ-zj4"; */
+"B05-wJ-zj4.text" = "Label";
+
+/* Class = "UILabel"; text = "Note:"; ObjectID = "BLs-WL-atx"; */
+"BLs-WL-atx.text" = "Note:";
+
+/* Class = "UILabel"; text = "Purchase Discount"; ObjectID = "BhR-cf-kTD"; */
+"BhR-cf-kTD.text" = "Remise d'achat";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "CHf-R9-L7Q"; */
+"CHf-R9-L7Q.normalTitle" = "Mot de passe oublié?";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "CHv-3b-CRH"; */
+"CHv-3b-CRH.text" = "---";
+
+/* Class = "UILabel"; text = "I understand that there are no medical effect of the iBrainPowers App workshop and I will not hold iBrainPowers Director, Franchise, Employee, Associates, Brand Ambassador etc. responsible for any such condition."; ObjectID = "CMf-Wu-C2G"; */
+"CMf-Wu-C2G.text" = "Je comprends que l'atelier iBrainPowers App n'a pas d'effet médical et que je ne tiendrai pas le directeur d'iBrainPowers, franchise, employé, associés, ambassadeur de marque, etc. comme responsable de cette situation.";
+
+/* Class = "UIButton"; normalTitle = "CLOSE"; ObjectID = "CbE-or-pWZ"; */
+"CbE-or-pWZ.normalTitle" = "CLOSE";
+
+/* Class = "UITextField"; placeholder = "Parent's Name"; ObjectID = "D3w-6V-vc8"; */
+"D3w-6V-vc8.placeholder" = "Nom du parent";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "DLE-cX-96f"; */
+"DLE-cX-96f.text" = "---";
+
+/* Class = "UILabel"; text = "Discount"; ObjectID = "DOO-a8-bYu"; */
+"DOO-a8-bYu.text" = "Réduction";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "DOQ-vT-HXG"; */
+"DOQ-vT-HXG.title" = "Item";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "DcV-9g-nO5"; */
+"DcV-9g-nO5.placeholder" = "Confirmer le mot de passe";
+
+/* Class = "UILabel"; text = "GUEST"; ObjectID = "E1e-2Z-hXi"; */
+"E1e-2Z-hXi.text" = "INVITÉ";
+
+/* Class = "UITextField"; placeholder = "####"; ObjectID = "E65-RW-9zV"; */
+"E65-RW-9zV.placeholder" = "####";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "EZq-Dp-nht"; */
+"EZq-Dp-nht.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "View Discount"; ObjectID = "Efw-Of-uZn"; */
+"Efw-Of-uZn.normalTitle" = "Voir remise";
+
+/* Class = "UILabel"; text = "Contact :"; ObjectID = "EmK-Of-soa"; */
+"EmK-Of-soa.text" = "Contact :";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FiT-d9-t6S"; */
+"FiT-d9-t6S.text" = "Label";
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "GOx-UB-NQ5"; */
+"GOx-UB-NQ5.text" = "Bienvenue";
+
+/* Class = "UILabel"; text = "Enter Your Mobile Number to get OTP for Login process."; ObjectID = "GWI-qQ-dYH"; */
+"GWI-qQ-dYH.text" = "Entrez votre numéro de portable pour obtenir OTP pour le processus de connexion.";
+
+/* Class = "UILabel"; text = "FAQs"; ObjectID = "Gpl-M6-Pxu"; */
+"Gpl-M6-Pxu.text" = "FAQs";
+
+/* Class = "UIBarButtonItem"; title = "ABOUT US"; ObjectID = "GzP-NG-o8g"; */
+"GzP-NG-o8g.title" = "À PROPOS DE NOUS";
+
+/* Class = "UILabel"; text = "(Brain music LLP)"; ObjectID = "HXw-Iu-zx6"; */
+"HXw-Iu-zx6.text" = "(Brain music LLP)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Hc5-xS-Dbd"; */
+"Hc5-xS-Dbd.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "IJc-8t-myi"; */
+"IJc-8t-myi.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "PayTM"; ObjectID = "ISU-mH-NWE"; */
+"ISU-mH-NWE.text" = "PayTM";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "Iil-dg-Vjd"; */
+"Iil-dg-Vjd.normalTitle" = "SOUMETTRE";
+
+/* Class = "UILabel"; text = "Package 1"; ObjectID = "Ip6-ZP-Gtr"; */
+"Ip6-ZP-Gtr.text" = "Paquet 1";
+
+/* Class = "UILabel"; text = "Maulik Desai"; ObjectID = "JdW-1v-w1s"; */
+"JdW-1v-w1s.text" = "Maulik Desai";
+
+/* Class = "UILabel"; text = "Brain music LLP, D’Souza house, W.E.H, Malad East, Mumbai 400093"; ObjectID = "KaL-4G-hiy"; */
+"KaL-4G-hiy.text" = "Brain music LLP, D’Souza house, W.E.H, Malad East, Mumbai 400093";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "Kad-Ai-38F"; */
+"Kad-Ai-38F.text" = "--";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "L3e-Kb-3hc"; */
+"L3e-Kb-3hc.text" = "Ville";
+
+/* Class = "UIBarButtonItem"; title = "Close Ticket"; ObjectID = "LMA-sn-scR"; */
+"LMA-sn-scR.title" = "Fermer le ticket";
+
+/* Class = "UILabel"; text = "STEPS"; ObjectID = "LyQ-Lg-3db"; */
+"LyQ-Lg-3db.text" = "ÉTAPES";
+
+/* Class = "UILabel"; text = "Contact Support for any transaction problems."; ObjectID = "MJO-bg-wez"; */
+"MJO-bg-wez.text" = "Contacter le support pour tout problème de transaction";
+
+/* Class = "UIButton"; normalTitle = "AGREE"; ObjectID = "MSL-Bf-Asa"; */
+"MSL-Bf-Asa.normalTitle" = "D'accord";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "McM-vg-JLw"; */
+"McM-vg-JLw.text" = "--";
+
+/* Class = "UILabel"; text = "3."; ObjectID = "MdH-TM-Tyi"; */
+"MdH-TM-Tyi.text" = "3.";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "Mke-DZ-mIL"; */
+"Mke-DZ-mIL.text" = "Email";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "MpG-Yb-O4D"; */
+"MpG-Yb-O4D.text" = "Déconnexion";
+
+/* Class = "UITextField"; placeholder = "Child's Name"; ObjectID = "N6p-aY-Aef"; */
+"N6p-aY-Aef.placeholder" = "Nom de l'enfant";
+
+/* Class = "UINavigationItem"; title = "  "; ObjectID = "NHV-pg-fAP"; */
+"NHV-pg-fAP.title" = "  ";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "Ng5-Ya-QnV"; */
+"Ng5-Ya-QnV.title" = "Fermer";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "Nke-a4-N0o"; */
+"Nke-a4-N0o.text" = "Total";
+
+/* Class = "UILabel"; text = "COMPLETED"; ObjectID = "Nn2-7W-zql"; */
+"Nn2-7W-zql.text" = "COMPLETED";
+
+/* Class = "UITextField"; placeholder = "Enter Message"; ObjectID = "NoW-dn-niS"; */
+"NoW-dn-niS.placeholder" = "Entrer le message";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "O0S-PE-fy8"; */
+"O0S-PE-fy8.normalTitle" = "ANNULER";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "O1L-0N-ZkD"; */
+"O1L-0N-ZkD.text" = "--";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "O9k-27-G2F"; */
+"O9k-27-G2F.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "OKz-ck-xgJ"; */
+"OKz-ck-xgJ.placeholder" = "Mot de passe";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "P2x-E8-Oxy"; */
+"P2x-E8-Oxy.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Parent's Name"; ObjectID = "PER-UL-n9g"; */
+"PER-UL-n9g.placeholder" = "Nom du parent";
+
+/* Class = "UILabel"; text = "iBrainPowers App is STRICTLY not be used in any medical conditions such as Epilepsy or is taking any medication for a serious medical condition."; ObjectID = "PF6-s6-NFf"; */
+"PF6-s6-NFf.text" = "iBrainPowers App est STRICTEMENT ne pas être utilisé dans des conditions médicales telles que l'épilepsie ou prend des médicaments pour une maladie grave.";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "PQm-PV-hi6"; */
+"PQm-PV-hi6.text" = "Prix";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Pjp-k2-LiI"; */
+"Pjp-k2-LiI.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "UPDATE PROFILE"; ObjectID = "QXA-An-Uff"; */
+"QXA-An-Uff.normalTitle" = "ACTUALIZACIÓN DEL PERFIL";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QpU-ap-8Il"; */
+"QpU-ap-8Il.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Child's Birthdate (6-16 years only)"; ObjectID = "RKe-Ws-8Qm"; */
+"RKe-Ws-8Qm.placeholder" = "Date de naissance de l'enfant (6 à 16 ans seulement)";
+
+/* Class = "UILabel"; text = "Parent Name"; ObjectID = "RX4-Fr-GVb"; */
+"RX4-Fr-GVb.text" = "Nom du parent";
+
+/* Class = "UILabel"; text = "I understand that there are no medical effect of the iBrainPowers App workshop and I will not hold iBrainPowers Director, Franchise, Employee, Associates, Brand Ambassador etc. responsible for any such condition."; ObjectID = "S7H-ez-l6i"; */
+"S7H-ez-l6i.text" = "Je comprends que l'atelier iBrainPowers App n'a pas d'effet médical et que je ne tiendrai pas le directeur d'iBrainPowers, franchise, employé, associés, ambassadeur de marque, etc. comme responsable de cette situation.";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "SNL-tH-bR1"; */
+"SNL-tH-bR1.placeholder" = "Nom";
+
+/* Class = "UILabel"; text = "No."; ObjectID = "Sx5-0N-GS8"; */
+"Sx5-0N-GS8.text" = "No.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "T2h-BI-wFk"; */
+"T2h-BI-wFk.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TgL-Yy-BTE"; */
+"TgL-Yy-BTE.text" = "Label";
+
+/* Class = "UILabel"; text = "Module 1"; ObjectID = "Tpl-Xl-HZS"; */
+"Tpl-Xl-HZS.text" = "Module 1";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "U1W-cP-yyq"; */
+"U1W-cP-yyq.text" = "Langue";
+
+/* Class = "UILabel"; text = "Promo Code"; ObjectID = "U92-Jq-179"; */
+"U92-Jq-179.text" = "Code Promo";
+
+/* Class = "UIButton"; normalTitle = "CHECKOUT"; ObjectID = "UBt-pD-Tfn"; */
+"UBt-pD-Tfn.normalTitle" = "CHECKOUT";
+
+/* Class = "UILabel"; text = "Combo Discounts:"; ObjectID = "UOe-kM-x5J"; */
+"UOe-kM-x5J.text" = "Réductions combinées:";
+
+/* Class = "UILabel"; text = "Support"; ObjectID = "Ud4-YM-Q21"; */
+"Ud4-YM-Q21.text" = "Soutien";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "Vaj-dx-B5a"; */
+"Vaj-dx-B5a.placeholder" = "Nouveau mot de passe";
+
+/* Class = "UIBarButtonItem"; title = "PROFILE"; ObjectID = "XKe-rD-iwc"; */
+"XKe-rD-iwc.title" = "PROFIL";
+
+/* Class = "UILabel"; text = "Maulik Desai"; ObjectID = "Xlv-Hp-xtY"; */
+"Xlv-Hp-xtY.text" = "Maulik Desai";
+
+/* Class = "UIBarButtonItem"; title = "Support"; ObjectID = "Xo1-Nf-k2b"; */
+"Xo1-Nf-k2b.title" = "Soutien";
+
+/* Class = "UILabel"; text = "Purchase"; ObjectID = "Xxc-l0-Imb"; */
+"Xxc-l0-Imb.text" = "Achat";
+
+/* Class = "UIButton"; normalTitle = "Resend OTP"; ObjectID = "YHT-cn-eHx"; */
+"YHT-cn-eHx.normalTitle" = "Renvoyer OTP";
+
+/* Class = "UILabel"; text = "Order ID"; ObjectID = "YbX-mB-Voh"; */
+"YbX-mB-Voh.text" = "ID de commande";
+
+/* Class = "UILabel"; text = "Net Amount"; ObjectID = "YgP-kL-pGd"; */
+"YgP-kL-pGd.text" = "Montant net";
+
+/* Class = "UIButton"; normalTitle = "Refund Policy"; ObjectID = "YjK-2I-s4y"; */
+"YjK-2I-s4y.normalTitle" = "Politique de remboursement";
+
+/* Class = "UIButton"; normalTitle = "Terms & Conditions"; ObjectID = "YkF-vB-nFT"; */
+"YkF-vB-nFT.normalTitle" = "Términos y condiciones";
+
+/* Class = "UILabel"; text = "* For Furthur Any Query Contact Us."; ObjectID = "Yu3-vd-2Pd"; */
+"Yu3-vd-2Pd.text" = "* Pour toute question concernant Furthur, contactez-nous";
+
+/* Class = "UIButton"; normalTitle = "BACK"; ObjectID = "YvG-fE-UMh"; */
+"YvG-fE-UMh.normalTitle" = "RETOUR";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "Yvc-gp-saL"; */
+"Yvc-gp-saL.text" = "---";
+
+/* Class = "UILabel"; text = "Do you really want to close Ticket?"; ObjectID = "ZeR-kR-JFw"; */
+"ZeR-kR-JFw.text" = "Voulez-vous vraiment fermer Ticket?";
+
+/* Class = "UILabel"; text = "Enter the OTP that you have received"; ObjectID = "aRu-hM-z6Y"; */
+"aRu-hM-z6Y.text" = "Entrez l'OTP que vous avez reçu";
+
+/* Class = "UIBarButtonItem"; title = "CONTACT US"; ObjectID = "aUU-nb-2Fc"; */
+"aUU-nb-2Fc.title" = "CONTACTEZ-NOUS";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "acB-l0-drU"; */
+"acB-l0-drU.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "aqk-q5-ZTi"; */
+"aqk-q5-ZTi.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "bOi-qH-oMU"; */
+"bOi-qH-oMU.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "CONFIRM"; ObjectID = "bPQ-C9-A9V"; */
+"bPQ-C9-A9V.normalTitle" = "CONFIRMER";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bXi-qJ-Uqn"; */
+"bXi-qJ-Uqn.text" = "Label";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "beb-t5-8DZ"; */
+"beb-t5-8DZ.text" = "---";
+
+/* Class = "UILabel"; text = "GST :"; ObjectID = "bvD-zU-66d"; */
+"bvD-zU-66d.text" = "GST :";
+
+/* Class = "UILabel"; text = "iBrainPowers"; ObjectID = "c0f-ic-A7O"; */
+"c0f-ic-A7O.text" = "iBrainPowers";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "c1r-9X-g4e"; */
+"c1r-9X-g4e.text" = "--";
+
+/* Class = "UILabel"; text = "ICICI1234"; ObjectID = "cX9-vo-Jzw"; */
+"cX9-vo-Jzw.text" = "ICICI1234";
+
+/* Class = "UILabel"; text = "1234567890"; ObjectID = "ch7-07-sXP"; */
+"ch7-07-sXP.text" = "1234567890";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ci6-Lf-6AM"; */
+"ci6-Lf-6AM.text" = "Label";
+
+/* Class = "UILabel"; text = "CGST"; ObjectID = "duC-E0-fuX"; */
+"duC-E0-fuX.text" = "CGST";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "dw6-jT-xwc"; */
+"dw6-jT-xwc.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "+91"; ObjectID = "eFk-Ro-yU0"; */
+"eFk-Ro-yU0.text" = "+91";
+
+/* Class = "UITextField"; placeholder = "Title"; ObjectID = "eTn-E4-Nei"; */
+"eTn-E4-Nei.placeholder" = "Titre";
+
+/* Class = "UILabel"; text = "Langugae Settings"; ObjectID = "eUL-vL-0FM"; */
+"eUL-vL-0FM.text" = "Paramètres Langugae";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "egc-2O-Blc"; */
+"egc-2O-Blc.text" = "Profil";
+
+/* Class = "UILabel"; text = "Mission:"; ObjectID = "f4J-92-BZ2"; */
+"f4J-92-BZ2.text" = "Misión:";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "fDa-8S-vaY"; */
+"fDa-8S-vaY.placeholder" = "Ville";
+
+/* Class = "UIButton"; normalTitle = "Terms and Condition"; ObjectID = "fJz-FW-liR"; */
+"fJz-FW-liR.normalTitle" = "Términos y Condiciones";
+
+/* Class = "UILabel"; text = "This iBrainPowers App consist of Brain Waves and Neuro Exercises and its scientifically proved that both above mentioned has no side effect on Brain or any part of the body."; ObjectID = "fXX-YA-gsE"; */
+"fXX-YA-gsE.text" = "Cette application iBrainPowers se compose d'ondes cérébrales et d'exercices de neuro. Ses preuves scientifiques ont prouvé que les deux cas mentionnés ci-dessus n'ont aucun effet secondaire sur le cerveau ou une partie du corps";
+
+/* Class = "UILabel"; text = "PURCHASE MODULES"; ObjectID = "fcG-dp-nnP"; */
+"fcG-dp-nnP.text" = "MODULES D'ACHAT";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fkg-op-H9H"; */
+"fkg-op-H9H.text" = "Label";
+
+/* Class = "UILabel"; text = "No Active Tickets"; ObjectID = "g6o-Pu-vwz"; */
+"g6o-Pu-vwz.text" = "Pas de billets actifs";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gwn-Yj-ICV"; */
+"gwn-Yj-ICV.text" = "Label";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "h9B-qV-zOR"; */
+"h9B-qV-zOR.text" = "---";
+
+/* Class = "UINavigationItem"; title = "  "; ObjectID = "hFI-UH-WpY"; */
+"hFI-UH-WpY.title" = "  ";
+
+/* Class = "UIBarButtonItem"; title = "PURCHASE"; ObjectID = "hU0-AE-6FK"; */
+"hU0-AE-6FK.title" = "ACHAT";
+
+/* Class = "UILabel"; text = "Share"; ObjectID = "hW6-UC-hJz"; */
+"hW6-UC-hJz.text" = "Partager";
+
+/* Class = "UILabel"; text = "SGST"; ObjectID = "hYg-RB-5Qa"; */
+"hYg-RB-5Qa.text" = "SGST";
+
+/* Class = "UILabel"; text = "Payable Amount"; ObjectID = "hlg-ww-ccP"; */
+"hlg-ww-ccP.text" = "Montant payable";
+
+/* Class = "UILabel"; text = "74514"; ObjectID = "hwz-Y9-DjR"; */
+"hwz-Y9-DjR.text" = "74514";
+
+/* Class = "UILabel"; text = "WELCOME"; ObjectID = "hxr-pn-M4M"; */
+"hxr-pn-M4M.text" = "BIENVENUE";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hzl-AF-bq9"; */
+"hzl-AF-bq9.text" = "Label";
+
+/* Class = "UITextView"; text = "Message"; ObjectID = "i9D-Mc-hs0"; */
+"i9D-Mc-hs0.text" = "Mensaje";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "icB-KG-1ht"; */
+"icB-KG-1ht.text" = "casa";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "icx-cM-RtP"; */
+"icx-cM-RtP.text" = "--";
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "ifj-h5-MlO"; */
+"ifj-h5-MlO.normalTitle" = "SIGUIENTE";
+
+/* Class = "UILabel"; text = "Child Name"; ObjectID = "ixL-0N-nNO"; */
+"ixL-0N-nNO.text" = "Nom de l'enfant";
+
+/* Class = "UILabel"; text = "PROFILE DETAILS"; ObjectID = "j2c-45-yJs"; */
+"j2c-45-yJs.text" = "DÉTAILS DU PROFIL";
+
+/* Class = "UILabel"; text = "* Select Multiple Packages to get combo discount."; ObjectID = "jxm-1j-Bhm"; */
+"jxm-1j-Bhm.text" = "* Sélectionnez plusieurs forfaits pour obtenir une réduction combinée";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "k7A-ft-0Lp"; */
+"k7A-ft-0Lp.placeholder" = "Mot de passe";
+
+/* Class = "UILabel"; text = "COMPLETED"; ObjectID = "kgA-34-0ff"; */
+"kgA-34-0ff.text" = "TERMINADO";
+
+/* Class = "UINavigationItem"; title = "  "; ObjectID = "kt5-7C-DmW"; */
+"kt5-7C-DmW.title" = "  ";
+
+/* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "kyt-OQ-lgw"; */
+"kyt-OQ-lgw.title" = "Paramètres";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "l4T-l2-F0R"; */
+"l4T-l2-F0R.normalTitle" = "FAIT";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "l8U-h9-gNH"; */
+"l8U-h9-gNH.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "CLOSE"; ObjectID = "lby-23-Jll"; */
+"lby-23-Jll.normalTitle" = "CERRAR";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "lnL-At-PVy"; */
+"lnL-At-PVy.placeholder" = "Confirmer le mot de passe";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "lr8-af-Gbz"; */
+"lr8-af-Gbz.placeholder" = "Confirmer le mot de passe";
+
+/* Class = "UILabel"; text = "Total Amount"; ObjectID = "lxk-hR-XwR"; */
+"lxk-hR-XwR.text" = "Montant total";
+
+/* Class = "UILabel"; text = "Email      :"; ObjectID = "m5M-Iu-TTE"; */
+"m5M-Iu-TTE.text" = "Email      :";
+
+/* Class = "UIButton"; normalTitle = "CREATE TICKET"; ObjectID = "mCt-UU-nD8"; */
+"mCt-UU-nD8.normalTitle" = "CRÉER UN BILLET";
+
+/* Class = "UIButton"; normalTitle = "AGREE"; ObjectID = "mLq-cU-FUo"; */
+"mLq-cU-FUo.normalTitle" = "D'accord";
+
+/* Class = "UITextField"; placeholder = "MOBILE NO"; ObjectID = "mqd-mB-6bW"; */
+"mqd-mB-6bW.placeholder" = "MÓVIL";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "mxa-k5-11z"; */
+"mxa-k5-11z.text" = "Descripción";
+
+/* Class = "UILabel"; text = "support@ibrainpowers.com"; ObjectID = "nEJ-iB-MYj"; */
+"nEJ-iB-MYj.text" = "support@ibrainpowers.com";
+
+/* Class = "UITextField"; placeholder = "Date of Birth (6-16 years only)"; ObjectID = "nwX-Ry-zBd"; */
+"nwX-Ry-zBd.placeholder" = "Date de naissance (6-16 ans seulement)";
+
+/* Class = "UILabel"; text = "9429149530"; ObjectID = "od3-4r-XbU"; */
+"od3-4r-XbU.text" = "9429149530";
+
+/* Class = "UILabel"; text = "By 2018 - 10,000 kids to complete Challenge Modules Part 1 & 2. Over 5000 kids to complete Level 1 & 2 \nBy 2020 – 1,00,000 kids to complete Challenge Modules Part 1 & 2. Over 50,000 kids to complete Level 1 & 2.\n"; ObjectID = "ofn-SD-EYk"; */
+"ofn-SD-EYk.text" = "D'ici 2018 - 10 000 enfants complèteront les modules de défi 1 et 2. Plus de 5 000 enfants complèteront les niveaux 1 et 2 \n D'ici 2020 - 1 00 000 enfants complèteront les modules de défi 1 et 2. Plus de 50 000 enfants complèteront les niveaux 1 et 2 . \n ";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "oih-DG-zrj"; */
+"oih-DG-zrj.text" = "Nom";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ojI-X0-Uzw"; */
+"ojI-X0-Uzw.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oor-oQ-yKY"; */
+"oor-oQ-yKY.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pkd-UI-Lmg"; */
+"pkd-UI-Lmg.text" = "Label";
+
+/* Class = "UILabel"; text = "2."; ObjectID = "q7h-ix-0r9"; */
+"q7h-ix-0r9.text" = "2.";
+
+/* Class = "UILabel"; text = "Set Password"; ObjectID = "qCp-Nn-xxa"; */
+"qCp-Nn-xxa.text" = "Définir le mot de passe";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "qQc-w9-Iux"; */
+"qQc-w9-Iux.normalTitle" = "Politique de confidentialité";
+
+/* Class = "UILabel"; text = "UNLOCKING BRILLIANCE"; ObjectID = "qU5-Mf-mRt"; */
+"qU5-Mf-mRt.text" = "UNLOCKING BRILLIANCE";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "r9A-v8-7k1"; */
+"r9A-v8-7k1.text" = "Email";
+
+/* Class = "UILabel"; text = "74514"; ObjectID = "riR-cp-nFD"; */
+"riR-cp-nFD.text" = "74514";
+
+/* Class = "UILabel"; text = "8080802885"; ObjectID = "rlY-pA-pba"; */
+"rlY-pA-pba.text" = "8080802885";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rtw-tq-igA"; */
+"rtw-tq-igA.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "s6o-8l-SIZ"; */
+"s6o-8l-SIZ.normalTitle" = "Politique de confidentialité";
+
+/* Class = "UITextField"; placeholder = "Promo Code"; ObjectID = "sDy-AP-7cm"; */
+"sDy-AP-7cm.placeholder" = "Código promocional";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "sob-3B-Z6V"; */
+"sob-3B-Z6V.text" = "--";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "t7O-4j-0Dh"; */
+"t7O-4j-0Dh.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Old Password"; ObjectID = "tDM-BU-eh8"; */
+"tDM-BU-eh8.placeholder" = "Ancien mot de passe";
+
+/* Class = "UILabel"; text = "Please do not disturb your child..."; ObjectID = "tIz-wJ-9mY"; */
+"tIz-wJ-9mY.text" = "S'il vous plaît, ne dérangez pas votre enfant.";
+
+/* Class = "UILabel"; text = "Communicate"; ObjectID = "tn3-cB-zVb"; */
+"tn3-cB-zVb.text" = "Communiquer";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "ty6-ws-t0u"; */
+"ty6-ws-t0u.placeholder" = "Mot de passe";
+
+/* Class = "UILabel"; text = "Every child on Planet Earth should benefit from this app-based workshop.\nApp based Workshop for kids 6 to 16 years ONLY. \nEven your child can identify colours blindfolded with our Challenge Modules and its FREE…..\nWe are proud that more than 2750 kids have completed our Level 1 and Level 2 app based workshops and we are relentesly trying to help as many kids as possible."; ObjectID = "u6I-zA-yg0"; */
+"u6I-zA-yg0.text" = "Tous les enfants de la planète Terre devraient bénéficier de cet atelier basé sur les applications. Atelier réservé aux enfants de 6 à 16 ans UNIQUEMENT. \nMême votre enfant peut identifier les couleurs avec les yeux bandés avec nos modules Challenge et son programme GRATUIT… .. \nNous sommes fiers de Plus de 2750 enfants ont participé à nos ateliers basés sur les applications de niveau 1 et 2 et nous essayons avec précaution d'aider autant d'enfants que possible.";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uIQ-vi-UVj"; */
+"uIQ-vi-UVj.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Contact Us"; ObjectID = "uMB-BC-ZTj"; */
+"uMB-BC-ZTj.text" = "Contactez-nous";
+
+/* Class = "UIButton"; normalTitle = "www.ibrainpowers.com"; ObjectID = "ulb-1W-icO"; */
+"ulb-1W-icO.normalTitle" = "www.ibrainpowers.com";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "unf-Iy-zcp"; */
+"unf-Iy-zcp.text" = "Mot de passe";
+
+/* Class = "UILabel"; text = "1."; ObjectID = "uqu-Wr-0iV"; */
+"uqu-Wr-0iV.text" = "1.";
+
+/* Class = "UILabel"; text = "Pending"; ObjectID = "vGa-7E-bKx"; */
+"vGa-7E-bKx.text" = "En attente";
+
+/* Class = "UILabel"; text = "GST :"; ObjectID = "vLG-ZW-P2L"; */
+"vLG-ZW-P2L.text" = "GST :";
+
+/* Class = "UIButton"; normalTitle = "Change Password"; ObjectID = "vbD-cl-EcO"; */
+"vbD-cl-EcO.normalTitle" = "Changer le mot de passe";
+
+/* Class = "UIBarButtonItem"; title = "iBrainPowers"; ObjectID = "vbT-LV-aFD"; */
+"vbT-LV-aFD.title" = "iBrainPowers";
+
+/* Class = "UILabel"; text = "Mobile"; ObjectID = "vcL-zV-kk2"; */
+"vcL-zV-kk2.text" = "Mobile";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "vgn-jg-T13"; */
+"vgn-jg-T13.text" = "---";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "w4S-wT-WhK"; */
+"w4S-wT-WhK.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "BUY"; ObjectID = "wDC-OQ-KtA"; */
+"wDC-OQ-KtA.normalTitle" = "ACHETER";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "waR-U3-wWf"; */
+"waR-U3-wWf.title" = "Fermer";
+
+/* Class = "UILabel"; text = "--"; ObjectID = "wdf-Ps-uee"; */
+"wdf-Ps-uee.text" = "--";
+
+/* Class = "UILabel"; text = "You may not able to respond the ticket again once you close the ticket"; ObjectID = "x4c-R0-o6N"; */
+"x4c-R0-o6N.text" = "Vous ne pourrez peut-être plus répondre à votre ticket une fois que vous aurez fermé le ticket";
+
+/* Class = "UILabel"; text = "PROFILE DETAILS"; ObjectID = "xBR-gN-13q"; */
+"xBR-gN-13q.text" = "DÉTAILS DU PROFIL";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "xEK-Lq-UCj"; */
+"xEK-Lq-UCj.normalTitle" = "Politique de confidentialité";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xPD-Bm-GQE"; */
+"xPD-Bm-GQE.text" = "Label";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "xae-OW-ucl"; */
+"xae-OW-ucl.text" = "---";
+
+/* Class = "UILabel"; text = "CHANGE PASSWORD"; ObjectID = "y4f-8I-sew"; */
+"y4f-8I-sew.text" = "CAMBIA LA CONTRASEÑA";
+
+/* Class = "UIButton"; normalTitle = "UPDATE PROFILE"; ObjectID = "z3E-tV-ivb"; */
+"z3E-tV-ivb.normalTitle" = "ACTUALIZACIÓN DEL PERFIL";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "z8z-M0-oay"; */
+"z8z-M0-oay.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "zFI-IM-ecu"; */
+"zFI-IM-ecu.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Complete your payment to make purchase."; ObjectID = "zRF-gf-E95"; */
+"zRF-gf-E95.text" = "Complétez votre paiement pour effectuer un achat.";
+
+/* Class = "UILabel"; text = "SGST "; ObjectID = "zfE-mq-QpB"; */
+"zfE-mq-QpB.text" = "SGST ";
+
+/* Class = "UILabel"; text = "Refund Policy"; ObjectID = "zfj-Tf-Rol"; */
+"zfj-Tf-Rol.text" = "Politique de remboursement";
+
+/* Class = "UILabel"; text = "Status:"; ObjectID = "zld-Al-OtQ"; */
+"zld-Al-OtQ.text" = "Estado:";
+
+/* Class = "UILabel"; text = "Thank You"; ObjectID = "zzs-FS-MgX"; */
+"zzs-FS-MgX.text" = "Merci";

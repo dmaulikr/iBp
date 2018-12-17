@@ -1,0 +1,137 @@
+/* 
+  Localizable.strings
+  BrainPower
+
+  Created by nestcode on 2/20/18.
+  Copyright © 2018 nestcode. All rights reserved.
+*/
+
+"\nThis iBrainPowers App consist of Brain Waves and Neuro Exercises and its scientifically proved that both above mentioned has no side effect on Brain or any part of the body.\n\niBrainPowers App is STRICTLY not be used in any medical conditions such as Epilepsy or is taking any medication for a serious medical condition.\n\nI understand that there are no medical effect of the iBrainPowers App workshop and I will not hold iBrainPowers Director, Franchise, Employee, Associates, Brand Ambassador etc. responsible for any such condition.\n\nMy child is not suffering from epilepsy or and is not mentally or physical challenged.\n\nIf you buy Level 1, Module 1 -5 and have opened Module 1 No refund will be initiated.\n\nIf your buy all modules and have used module 1–5 then Amount paid – 1500 + will be refunded, Service Tax will not be refundable.\n\nIf you have not used any modules we will refund your amount less service tax." = "\nCette application iBrainPowers se compose d’ondes cérébrales et d’exercices neuro. Ses preuves scientifiques ont prouvé que les deux personnes mentionnées ci-dessus n’ont pas d’effets secondaires sur le cerveau ni sur aucune partie du corps. \n \nBrainPowers App ne doit PAS être utilisé dans des conditions médicales telles que l’épilepsie. ou prend tout médicament pour un problème médical grave. \n \nJe comprends que l'atelier iBrainPowers App n'a aucun effet médical et je ne tiens pas le directeur d'iBrainPowers, franchisé, employé, associé, ambassadeur de la marque, etc. pour responsable de ce type de problème. . \n \nMon enfant ne souffre pas d'épilepsie ou n'est pas mentalement ou physiquement handicapé. \n \nSi vous achetez Level 1, Module 1 -5 et avez ouvert le Module 1 Aucun remboursement ne sera initié. \n \nSi votre achat tous les modules et ont utilisé les modules 1 à 5, puis le montant payé - 1500+ seront remboursés, la taxe de service ne sera pas remboursable. \n \nSi vous n’avez utilisé aucun module, nous vous rembourserons votre montant moins la taxe de service. ";
+
+"Terms & Conditions" = "Termes et conditions";
+
+"Privacy Policy" = "Politique de confidentialité";
+
+"Enter New Password" = "Entrez un nouveau mot de passe";
+
+"Enter Confirm Password" = "Entrer le mot de passe";
+
+"Set New Password" = "Définir un nouveau mot de passe";
+
+"Please Enter New Password" = "Veuillez saisir un nouveau mot de passe";
+
+"Please Enter Confirm Password" = "S'il vous plaît entrer confirmer le mot de passe";
+
+"Confirm Password not Matched!!" = "Confirmer le mot de passe ne correspond pas !!";
+
+"Something went wrong!!, Please try again" = "Une erreur s'est produite. Veuillez réessayer";
+
+"Device is not connected to Internet!! Please connect to the Internet and try again!!" = "L'appareil n'est pas connecté à Internet! Veuillez vous connecter à Internet et essayez à nouveau!";
+
+"Your Phone battery is below 15%, Please put phone into charging." = "La batterie de votre téléphone est inférieure à 15%, veuillez mettre le téléphone en charge.";
+
+"BUY NOW" = "ACHETER MAINTENANT";
+
+"COMPLETE PURCHASE" = "FINALISER L'ACHAT";
+
+"ACTIVE" = "ACTIF";
+
+"COMPLETED" = "TERMINÉ";
+
+"LOCKED" = "FERMÉ À CLEF";
+
+"FREE" = "LIBRE";
+
+"OPEN" = "OUVRIR";
+
+"ALREADY PURCHASED" = "DÉJÀ ACHETÉ";
+
+"This Level is Locked" = "Ce niveau est verrouillé";
+
+"You have aleady completed this Level" = "Vous avez déjà terminé ce niveau";
+
+"Please Fill All Details to Continue" = "S'il vous plaît remplir tous les détails pour continuer";
+
+"Please Enter Parent's Name" = "S'il vous plaît entrer le nom du parent";
+
+"Please Enter Child's Name" = "S'il vous plaît entrer le nom de l'enfant";
+
+"Please Enter Email" = "S'il vous plaît entrer email";
+
+"Please Enter Date of Birth of Child" = "S'il vous plaît entrer la date de naissance de l'enfant";
+
+"Please Enter City" = "S'il vous plaît entrer la ville";
+
+"Promocode Must be 9 Digits!!!" = "Le code promotionnel doit comporter 9 chiffres!!!";
+
+"Password Can't be less then 8 Digits!!!" = "Le mot de passe ne peut pas être inférieur à 8 chiffres !!!";
+
+"Password and Confirm Password not matched!!!" = "Mot de passe et Confirmer le mot de passe ne correspond pas !!!";
+
+"You must agree on Terms and Conditions to continue!!" = "Vous devez accepter les conditions pour continuer !!";
+
+"You can complete 2 modules in 24 hours and you already have completed 2 modules in 24hrs. Please Visit after 24hrs" = "Vous pouvez compléter 2 modules en 24 heures et vous avez déjà terminé 2 modules en 24h. Merci de visiter après 24 heures";
+
+"Please enable phone to Airplane Mode." = "S'il vous plaît activer le téléphone en mode avion.";
+
+"Please plugin HEADPHONE and Keep Volume Maximum." = "Veuillez brancher HEADPHONE et garder le volume maximum..";
+
+"Please do not press back button, home button or unplug headphone." = "S'il vous plaît, n'appuyez pas sur le bouton précédent, le bouton principal ou le casque débranché.";
+
+"Please Fill All Details to Continue" = "S'il vous plaît remplir tous les détails pour continuere";
+
+"Please Enter Old Password" = "Veuillez entrer l'ancien mot de passe";
+
+"Please Enter New Password" = "Veuillez saisir un nouveau mot de passe";
+
+"Please Enter Confirm Password" = "S'il vous plaît entrer confirmer le mot de passe";
+
+"Confirm Password should be equal to New Password" = "Confirmer le mot de passe doit être égal à Nouveau mot de passe";
+
+"Enter Details to Continue" = "Entrer les détails pour continuer";
+
+"Please Enter Name" = "S'il vous plaît entrer le nom";
+
+"Please Enter Email" = "S'il vous plaît entrer email";
+
+"Please Enter Message" = "S'il vous plaît entrer un message";
+
+"1. We thank you for choosing iBrainPowers App Level 1 & 2.\n2. To be eligible for refund\n\t2.1. Even if module  1 & 2 are completed you can opt for 100%% refund.\n\t2.2. If you completed between module 3 - 5 you can opt for 50% refund.\n\t2.3. If you complete module 6 then no refund initiated.\n3. No refund after 15 days of purchase.\n4. For any refund please contact support@ibrainpowers.com with your registered mobile number in subject line for speedy initiation." = "1. Nous vous remercions d'avoir choisi l'application iBrainPowers niveaux 1 et 2. \n2. Pour bénéficier d'un remboursement \n \t2.1. Même si les modules 1 et 2 sont terminés, vous pouvez opter pour un remboursement à 100%. \n \t2 .2. Si vous avez terminé entre les modules 3 et 5, vous pouvez choisir un remboursement de 50%. \n \t2.3. Si vous complétez le module 6, aucun remboursement ne sera alors initié. \n3. Aucun remboursement après 15 jours de l'achat. \n4 Pour tout remboursement, veuillez contacter support@ibrainpowers.com en indiquant votre numéro de téléphone portable inscrit dans la ligne d'objet pour une initiation rapide.";
+
+"Please connect HeadPhones to continue!!" = "S'il vous plaît connecter HeadPhones pour continuer !!";
+
+"Message" = "Message";
+
+"Alert!!" = "Alerte!!";
+
+"Are you sure you want to logout?" = "Êtes-vous sûr de vouloir vous déconnecter?";
+
+"Attention!!" = "Attention!!";
+
+"YES" = "OUI";
+
+"NO" = "NON";
+
+"You will be Redirect to our website for payment" = "Vous serez redirigé vers notre site Web pour le paiement";
+
+"You save" = "Vous sauvegardez";
+
+"Already Purchased!" = "Déjà acheté!";
+
+"Please Select Package to Continue Purchase!" = "Sélectionnez le paquet pour continuer l'achat!";
+
+"You Have Purchased All Packages!" = "Vous avez acheté tous les paquets!";
+
+"Description" = "La description";
+
+"Please Fill All Details!!" = "S'il vous plaît remplir tous les détails!!";
+
+"Please Select Category First!!" = "Veuillez sélectionner la catégorie d'abord!!";
+
+"Please Write Title First!!" = "S'il vous plaît écrivez le titre en premier!!";
+
+"Please Write Description First!!" = "S'il vous plaît écrivez Description First!!";
+
+"Please Enter Mesage!!" = "S'il vous plaît entrer un message!!";
+
+"Enter Message" = "Entrer le message";

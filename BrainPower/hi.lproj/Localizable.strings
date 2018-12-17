@@ -1,0 +1,139 @@
+/* 
+  Localizable.strings
+  BrainPower
+
+  Created by nestcode on 2/20/18.
+  Copyright © 2018 nestcode. All rights reserved.
+*/
+
+"\nThis iBrainPowers App consist of Brain Waves and Neuro Exercises and its scientifically proved that both above mentioned has no side effect on Brain or any part of the body.\n\niBrainPowers App is STRICTLY not be used in any medical conditions such as Epilepsy or is taking any medication for a serious medical condition.\n\nI understand that there are no medical effect of the iBrainPowers App workshop and I will not hold iBrainPowers Director, Franchise, Employee, Associates, Brand Ambassador etc. responsible for any such condition.\n\nMy child is not suffering from epilepsy or and is not mentally or physical challenged.\n\nIf you buy Level 1, Module 1 -5 and have opened Module 1 No refund will be initiated.\n\nIf your buy all modules and have used module 1–5 then Amount paid – 1500 + will be refunded, Service Tax will not be refundable.\n\nIf you have not used any modules we will refund your amount less service tax." = "\nयह ब्रेन पावर ऐप बढ़ाता है ब्रेन वेव्स और न्यूरो कसरत से मिलकर बनता है और इसके वैज्ञानिक रूप से यह साबित हुआ है कि उपर्युक्त दोनों का मस्तिष्क या शरीर के किसी भी हिस्से पर कोई साइड इफेक्ट नहीं है।\n\nमस्तिष्क की शक्तियों को बढ़ाएं ऐप्लीप्सी जैसे किसी भी चिकित्सा स्थितियों में सतर्कता से उपयोग नहीं किया जाता है या गंभीर चिकित्सा स्थिति के लिए कोई दवा ले रहा है।\n\nमैं समझता हूं कि ब्रेन पावर ऐप वर्कशॉप बढ़ाने का कोई मेडिकल प्रभाव नहीं है और मैं मस्तिष्क शक्तियों के निदेशक, फ्रैंचाइज़, कर्मचारी, एसोसिएट्स, ब्रांड एंबेसडर इत्यादि को ऐसी कोई स्थिति के लिए जिम्मेदार नहीं रखूंगा।\n\nमेरा बच्चा मिर्गी से पीड़ित नहीं है और मानसिक रूप से या शारीरिक चुनौती नहीं है।\n\nयदि आप स्तर 1, मॉड्यूल 1 -5 खरीदते हैं और मॉड्यूल 1 खोला है, तो कोई भी वापसी नहीं की जाएगी।\n\nयदि आप सभी मॉड्यूल खरीदते हैं और मॉड्यूल 1-5 का इस्तेमाल करते हैं तो भुगतान की राशि - 1500 + की धनवापसी की जाएगी, सेवा कर वापस नहीं होगा।\n\nयदि आपने किसी भी मॉड्यूल का इस्तेमाल नहीं किया है तो हम आपकी राशि कम सेवा कर वापस कर देंगे।";
+
+"Terms & Conditions" = "नियम एवं शर्तें";
+
+"Privacy Policy" = "गोपनीयता नीति";
+
+"Enter New Password" = "नया पासवर्ड दर्ज करें";
+
+"Enter Confirm Password" = "पासवर्ड की पुष्टि करें दर्ज करें";
+
+"Set New Password" = "नया पासवर्ड सेट करें";
+
+"Please Enter New Password" = "कृपया नया पासवर्ड दर्ज करें";
+
+"Please Enter Confirm Password" = "कृपया पासवर्ड की पुष्टि करें दर्ज करें";
+
+"Confirm Password not Matched!!" = "पासवर्ड की पुष्टि नहीं की गई।";
+
+"Something went wrong!!, Please try again" = "कुछ गलत हो गया। कृपया पुन: प्रयास करें";
+
+"Device is not connected to Internet!! Please connect to the Internet and try again!!" = "डिवाइस इंटरनेट से कनेक्ट नहीं है !! कृपया इंटरनेट से जुड़ें और पुनः प्रयास करें !!";
+
+"Your Phone battery is below 15%, Please put phone into charging." = "आपकी फोन की बैटरी 15% से कम है, कृपया फोन को चार्ज करने दें।";
+
+"BUY NOW" = "अभी खरीदें";
+
+"COMPLETE PURCHASE" = "पूरी खरीद";
+
+"ACTIVE" = "सक्रिय";
+
+"COMPLETED" = "पूरा";
+
+"LOCKED" = "लॉक";
+
+"FREE" = "मुक्त";
+
+"OPEN" = "खुला";
+
+"ALREADY PURCHASED" = "पहले से खरीदा गया";
+
+"This Level is Locked" = "यह लेवल बंद है";
+
+"You have aleady completed this Level" = "आपने इस लेवल को पूरा किया है";
+
+"Please Fill All Details to Continue" = "जारी रखने के लिए कृपया सभी विवरण भरें";
+
+"Please Enter Parent's Name" = "कृपया माता-पिता का नाम दर्ज करें";
+
+"Please Enter Child's Name" = "कृपया बाल का नाम दर्ज करें";
+
+"Please Enter Email" = "कृपया ईमेल दर्ज करें";
+
+"Please Enter Date of Birth of Child" = "कृपया बच्चे के जन्म तिथि दर्ज करें";
+
+"Please Enter City" = "कृपया शहर दर्ज करें";
+
+"Promocode Must be 9 Digits!!!" = "प्रोमो कोड 9 अंक होना चाहिए !!!";
+
+"Password Can't be less then 8 Digits!!!" = "पासवर्ड 8 अंकों से कम नहीं हो सकता !!!";
+
+"Password and Confirm Password not matched!!!" = "पासवर्ड और कन्फ़र्म पासवर्ड की पुष्टि नहीं हुई है !!!";
+
+"You must agree on Terms and Conditions to continue!!" = "आपको जारी रखने के लिए नियम और शर्तों पर सहमत होना होगा !!";
+
+"You can complete 2 modules in 24 hours and you already have completed 2 modules in 24hrs. Please Visit after 24hrs" = "आप 24 घंटे में 2 मॉड्यूल पूरा कर सकते हैं और आपने पहले ही 24 घंटों में 2 मॉड्यूल पूरे कर लिए हैं। कृपया 24 घंटों के बाद यात्रा करें";
+
+"Please enable phone to Airplane Mode." = "कृपया फोन का हवाई जहाज मोड इनेबल करें।";
+
+"Please plugin HEADPHONE and Keep Volume Maximum." = "कृपया हेडफोन प्लग इन करें और वॉल्यूम अधिकतम रखें।";
+
+"Please do not press back button, home button or unplug headphone." = "कृपया वापस बटन, होम बटन या अनप्लग हेड फोन्स को दबाएं नहीं।";
+
+"Please Fill All Details to Continue" = "जारी रखने के लिए कृपया सभी विवरण भरें";
+
+"Please Enter Old Password" = "कृपया पुराना पासवर्ड दर्ज करें";
+
+"Please Enter New Password" = "कृपया नया पासवर्ड दर्ज करें";
+
+"Please Enter Confirm Password" = "कृपया पासवर्ड की पुष्टि करें दर्ज करें";
+
+"Confirm Password should be equal to New Password" = "पासवर्ड और कन्फ़र्म पासवर्ड की पुष्टि नहीं हुई है !!!";
+
+"Enter Details to Continue" = "जारी रखने के लिए विवरण दर्ज करें";
+
+"Please connect HeadPhones to continue!!" = "जारी रखने के लिए कृपया हेडफोन कनेक्ट करें !!";
+
+"Please Enter Name" = "कृपया नाम दर्ज करें";
+
+"Please Enter Email" = "कृपया ईमेल दर्ज करें";
+
+"Please Enter Message" = "कृपया संदेश दर्ज करें";
+
+"1. We thank you for choosing iBrainPowers App Level 1 & 2.\n2. To be eligible for refund\n\t2.1. Even if module  1 & 2 are completed you can opt for 100%% refund.\n\t2.2. If you completed between module 3 - 5 you can opt for 50%% refund.\n\t2.3. If you complete module 6 then no refund initiated.\n3. No refund after 15 days of purchase.\n4. For any refund please contact support@ibrainpowers.com with your registered mobile number in subject line for speedy initiation." = "1. iBrainPowers ऐप लेवल 1 और 2 को चुनने के लिए धन्यवाद।\n2. रिफंड के पात्र होने के लिए\n\t2.1. भले ही मॉड्यूल 1 और 2 पूर्ण हो जाए, तो आप 100% वापसी का विकल्प चुन सकते हैं।\n\t2.2. यदि आप मॉड्यूल 3-5 के बीच पूरा कर लिया है, तो आप 50% वापसी का विकल्प चुन सकते हैं।\n\t2.3. यदि आप मॉड्यूल 6 पूरा करते हैं तो कोई धनवापसी शुरू नहीं की गई।\n3. खरीद के 15 दिनों के बाद कोई धनवापसी नहीं।\n4. किसी भी धनवापसी के लिए कृपया शीघ्र सहायता के लिए विषय पंक्ति में अपने पंजीकृत मोबाइल नंबर के साथ support@ibrainpowers.com से संपर्क करें।";
+
+"Please disable phone to Airplane Mode." = "कृपया फ़ोन को हवाई जहाज मोड से डिसेबल करें।";
+
+"Message" = "संदेश";
+
+"Alert!!" = "चेतावनी!";
+
+"Are you sure you want to logout?" = "क्या आप सच में लॉगआउट करना चाहते हैं?";
+
+"Attention!!" = "ध्यान दें!";
+
+"YES" = "हाँ";
+
+"NO" = "नहीं";
+
+"You will be Redirect to our website for payment" = "आप भुगतान के लिए हमारी वेबसाइट पर रीडायरेक्ट होंगे";
+
+"You save" = "आप बचाते हैं";
+
+"Already Purchased!" = "पहले से ही खरीदा गया!";
+
+"Please Select Package to Continue Purchase!" = "कृपया खरीद जारी रखने के लिए पैकेज का चयन करें!";
+
+"You Have Purchased All Packages!" = "आपने सभी पैकेज खरीदे हैं!";
+
+"Description" = "विवरण";
+
+"Please Fill All Details!!" = "कृपया सभी विवरण भरें!!";
+
+"Please Select Category First!!" = "कृपया पहले श्रेणी का चयन करें!!";
+
+"Please Write Title First!!" = "कृपया पहले शीर्षक लिखें!!";
+
+"Please Write Description First!!" = "कृपया विवरण लिखें पहले!!";
+
+"Please Enter Mesage!!" = "कृपया संदेश दर्ज करें!!";
+
+"Enter Message" = "संदेश दर्ज करें";
